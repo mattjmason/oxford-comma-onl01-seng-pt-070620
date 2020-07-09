@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  [].join
+  ["kiwi"].join
+  ["kiwi", "durian"].join("and")
+  
 end
